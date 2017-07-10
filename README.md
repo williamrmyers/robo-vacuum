@@ -16,4 +16,5 @@ It returns two integers. The first being the final location of the vacuum, and t
 
 
 To run the program just execute it with node on the unix command line.
+
 `node App.js`
